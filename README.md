@@ -1,15 +1,14 @@
-# Welcome to your Lovable project
+# Welcome to my project
 
 ## Project info
 
-**URL**: 
+**URL**: https://trendscribe-visual.vercel.app/
 
 ## How can I edit this code?
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 The only requirement is having Node.js & npm installed.
 
 Follow these steps:
